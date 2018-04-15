@@ -59,7 +59,7 @@ header.masthead {
     font-weight: 400;
     display: block;
     text-transform: uppercase; }
-  header.masthead .intro-text .skill h3,h4{
+  header.masthead .intro-text .skill h3{
 	  font-size:0.7em;
     color:white;
 }
