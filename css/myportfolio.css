@@ -60,7 +60,7 @@ header.masthead {
     display: block;
     text-transform: uppercase; }
   header.masthead .intro-text .skill {
-    font-size:2em;
+    font-size: 2em;
     text-transform : uppercase;
     color: white ;
 }
