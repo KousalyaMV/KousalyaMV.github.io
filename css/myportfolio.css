@@ -60,7 +60,7 @@ header.masthead {
     display: block;
     text-transform: uppercase; }
   header.masthead .intro-text .skill {
-	  font-size:1 em;
+	  font-size:1.3em;
     color: white ;
 }
 /* End Home Section */
